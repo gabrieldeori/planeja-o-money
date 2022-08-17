@@ -1,6 +1,6 @@
 # Planeja o Money
 ## Resuminho simpático
-Planeja o Money é um aplicativo web que serve para você descobrir onde seu dinheiro anda passeando.
+Planeja o Money é um aplicativo web que serve para você descobrir por onde seu dinheiro anda passeando.
 
 ## O que ela faz?
 A aplicação fornece ferramentas simples para o controle da entrada e saída de recursos.
